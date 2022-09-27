@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\WA_Calculator\bin\Debug\WA_Calculator.exe.config
+C:\Users\hp\source\repos\WA_Calculator\bin\Debug\WA_Calculator.exe
+C:\Users\hp\source\repos\WA_Calculator\bin\Debug\WA_Calculator.pdb
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.Form1.resources
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.Properties.Resources.resources
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.exe
+C:\Users\hp\source\repos\WA_Calculator\obj\Debug\WA_Calculator.pdb
